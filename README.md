@@ -13,5 +13,6 @@ Desarrollada con React, TypeScript y la API de criptomonedas para obtener datos 
 
 # Deploy
 Ver demo: https://cecyng.github.io/cripto-react-typescript/
+
 Ver código: https://github.com/CecyNg/cripto-react-typescript
 
